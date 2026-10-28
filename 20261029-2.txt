@@ -1,0 +1,7 @@
+title: AI will change finance forever
+caption: Autonomous companies on chain might be the next thing people bet on.
+hook: Just like we bet on indexes and stocks of real-world companies, there's a future where entirely autonomous companies may be the subjects of these bets.
+source: What AI actually does on the blockchain (voiceover) 00:07:24 to 00:07:58
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

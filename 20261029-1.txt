@@ -1,0 +1,7 @@
+title: AI still can't do what Einstein did
+caption: They gave an AI everything except the idea. It couldn't find it.
+hook: They took an LLM starved it of any context.
+source: The Onchain Pod: we're back 00:41:56 to 00:42:44
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
