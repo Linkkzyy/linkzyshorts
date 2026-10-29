@@ -1,0 +1,7 @@
+title: This was the laziest AI build possible
+caption: Least effort, least input. It still looks like a real project.
+hook: What I made today was the worst possible iteration of slop.
+source: AI slop tutorial 00:06:55 to 00:07:31
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
