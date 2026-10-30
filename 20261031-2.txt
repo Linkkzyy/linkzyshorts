@@ -1,0 +1,7 @@
+title: You can't tell this is AI anymore
+caption: Built on real research, so everything reads properly.
+hook: There is some sort of AI tells in this, like the boxy nature.
+source: AI slop tutorial 00:02:06 to 00:02:43
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
