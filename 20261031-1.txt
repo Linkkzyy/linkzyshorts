@@ -1,0 +1,7 @@
+title: AI is the future of finance
+caption: Whether you hate it or love it.
+hook: For our generation, AI is the shit.
+source: The Onchain Pod: we're back 00:25:08 to 00:25:46
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

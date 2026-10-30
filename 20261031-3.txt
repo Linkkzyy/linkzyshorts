@@ -1,0 +1,7 @@
+title: AI vs my law degree
+caption: Recall is the AI's job. Ingenuity is yours.
+hook: I've spent the last four years on a law degree.
+source: The Onchain Pod: we're back 00:39:30 to 00:40:08
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
