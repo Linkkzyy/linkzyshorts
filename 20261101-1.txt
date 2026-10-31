@@ -1,0 +1,7 @@
+title: AI is replacing video editors
+caption: One prompt, one audio file, a finished video.
+hook: I don't have to do any work.
+source: The Onchain Pod: we're back 00:31:00 to 00:31:32
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

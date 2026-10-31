@@ -1,0 +1,7 @@
+title: Bots are running the markets
+caption: Over half the volume, botted.
+hook: On Polymarket, they pushed the same idea further.
+source: What AI actually does on the blockchain (voiceover) 00:04:11 to 00:04:31
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
