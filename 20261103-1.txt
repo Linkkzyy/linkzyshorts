@@ -1,0 +1,7 @@
+title: Everyone is exit liquidity now
+caption: Almost everyone will become the marginal buyer for someone.
+hook: At this point, it's almost unavoidable.
+source: The $1,500 public wallet video (voiceover) 00:06:16 to 00:06:39
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

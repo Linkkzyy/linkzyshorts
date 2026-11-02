@@ -1,0 +1,7 @@
+title: Why NFTs burned out so fast
+caption: NFTs were never liquid.
+hook: The issue that I think made NFTs saturate far quicker than tokens is a NFTs were not liquid assets, right.
+source: The Onchain Pod: we're back 00:04:40 to 00:05:09
+swearing: yes
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

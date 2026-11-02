@@ -1,0 +1,7 @@
+title: Crypto has a fee problem
+caption: You cannot outscale launchpad fees with new inflows.
+hook: Quite literally impossible to outscale the amount being just from Launchpad fees alone.
+source: The Onchain Pod: we're back 00:09:41 to 00:10:13
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
