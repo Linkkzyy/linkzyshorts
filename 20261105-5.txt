@@ -1,0 +1,7 @@
+title: Your exchange balance is an IOU
+caption: People who thought they owned their crypto found out they owned a claim in a bankruptcy.
+hook: Here's the thing to understand about that exchange balance.
+source: Crypto From Zero 2 (Link's take), module Short 2, 560.9 to 588.3 s
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

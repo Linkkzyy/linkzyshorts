@@ -1,0 +1,7 @@
+title: Everyone has the same information
+caption: The edge is not in being told what to do. The edge is being able to see.
+hook: It isn't that some people have information and others don't.
+source: Crypto From Zero 1 (Link's take), module Short 3, lines 187 to 196
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)

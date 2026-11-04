@@ -1,0 +1,7 @@
+title: Your seed phrase IS the wallet
+caption: Whoever has those words has everything.
+hook: When you create the wallet, Phantom shows you a seed phrase.
+source: Crypto From Zero 2 (Link's take), module Short 1, 674.0 to 713.1 s
+swearing: no
+ai_generated: no
+scheduled_by: Video Maker (Metricool)
